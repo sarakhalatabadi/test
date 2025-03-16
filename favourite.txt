@@ -1,3 +1,8 @@
+foods:
 Qurme sabzi
 Dizi 
 Zereshkpolo ba morq
+movies:
+Lord of the rings
+Fightclub
+Lisanseha
